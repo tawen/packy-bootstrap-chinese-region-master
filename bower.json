@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-chinese-region",
+  "version": "0.1.0",
+  "authors": [
+    "packy-tang <lpreterite@126.com>"
+  ],
+  "description": "基于bootstrap的中国地区（行政区）选择器",
+  "keywords": [
+    "bootstrap",
+    "chinese",
+    "region",
+    "selection"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://coding.net/u/packy/p/bootstrap-chinese-region/git/blob/master/LICENSE"
+  },
+  "homepage": "https://coding.net/u/packy/p/bootstrap-chinese-region/git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "jquery": "1.10.1"
+  }
+}
